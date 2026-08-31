@@ -214,7 +214,28 @@ My main interests include **Software Development, Full-Stack Engineering, Backen
 
 ---
 
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
+  <img src="https://leetcard.jacoblin.cool/Alpha_Beta_gamma_1234?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="Udayan's LeetCode Stats"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
+  <img src="https://img.shields.io/badge/LeetCode-Alpha__Beta__gamma__1234-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+</a>
+
+</div>
+
+---
+
 ## 🐍 GitHub Contribution Graph
+
 
 <div align="center">
 

@@ -46,13 +46,43 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Udayan Mahalwar**, a B.Tech Computer Science undergraduate at **Thapar Institute of Engineering and Technology (2024–2028)** with a current **CGPA of 8.53**.
+<div align="center">
 
-I enjoy building systems that combine **backend engineering, databases, algorithms, and clean software architecture**. I'm currently focused on **Machine Learning** and sharpening my **DSA skills** — I've solved **400+ problems** and hold a **1600+ LeetCode rating**.
+```bash
+$ whoami
+udayan_mahalwar
 
-My main interests include **Software Development, Full-Stack Engineering, Backend Systems, Machine Learning, Web Development, and Competitive Programming**.
+$ education
+B.Tech Computer Science @ Thapar Institute of Engineering and Technology
+2024 → 2028 | CGPA: 8.53
 
----
+$ currently
+Machine Learning
+DSA & Problem Solving
+Backend Engineering
+Software Architecture
+
+$ experience
+400+ DSA problems solved
+1600+ LeetCode rating
+
+$ interests
+Software Development
+Full-Stack Engineering
+Backend Systems
+Machine Learning
+Web Development
+Competitive Programming
+
+$ motto
+"Build. Break. Learn. Repeat."
+
+$ status
+████████████████████████████████████████ 100%
+Ready to build 🚀
+```
+
+</div>
 
 ## 🛠️ Tech Stack
 

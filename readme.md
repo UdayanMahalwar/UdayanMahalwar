@@ -28,7 +28,7 @@
 
 **🛠️ Stack** → [Languages](#-languages) · [Frontend](#-frontend) · [Backend](#-backend) · [Databases](#-databases) · [ML](#-data-science--ml)
 
-**📊 Stats** → [GitHub Analytics](#-github-analytics) · [🔥 Streak](#-github-streak) · [📈 Contributions](#-contribution-graph)
+**📊 Stats** → [GitHub Analytics](#-github-analytics) · [🔥 Streak](#-github-streak) · [🐍 Contribution Graph](#-github-contribution-graph)
 
 **🔗 Connect** → [LinkedIn](https://linkedin.com/in/udayan-mahalwar-046a69251/) · [Email](mailto:mahalwarudayan@gmail.com) · [GitHub](https://github.com/UdayanMahalwar)
 
@@ -262,12 +262,12 @@ I'm currently putting extra time into **Machine Learning** and **DSA**, while co
 <div align="center">
 
 <a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Alpha_Beta_gamma_1234?theme=dark&show=recent" alt="Udayan's LeetCode recent activities"/>
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Alpha_Beta_gamma_1234?theme=dark&show=recent&card_width=720" alt="Udayan's LeetCode recent activities"/>
 </a>
 
 </div>
 
-**Recent Activities** is shown here instead of the LeetCode yearly heatmap, so your profile highlights your latest solved/attempted problems, language, and submission status. The card uses the `show=recent` mode to display recent submissions in a dark theme.
+Live recent-submission activity from my LeetCode profile.
 
 <a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
   🔗 **Open my LeetCode profile**
@@ -277,60 +277,19 @@ I'm currently putting extra time into **Machine Learning** and **DSA**, while co
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Graph
 
-> For a true green GitHub contribution animation, use the `Platane/snk` GitHub Action to generate `github-snake.svg` in this profile repository.
+<div align="center">
 
-<details>
-<summary><b>How to enable the green contribution snake</b></summary>
-
-Create `.github/workflows/snake.yml` in your profile repository:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: UdayanMahalwar
-          outputs: |
-            dist/github-snake.svg?palette=github
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: EndBug/latest-tag@latest
-        with:
-          ref: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          jekyll: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
-```
-
-Then add this to the README after the workflow has run once:
-
-```html
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github contribution snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UdayanMahalwar/UdayanMahalwar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UdayanMahalwar/UdayanMahalwar/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/UdayanMahalwar/UdayanMahalwar/output/github-snake.svg" />
 </picture>
-```
 
-</details>
+</div>
+
+> 🟩 This contribution animation is generated from my GitHub contribution calendar and published to the `output` branch by GitHub Actions.
 
 ---
 

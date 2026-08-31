@@ -243,15 +243,96 @@ I'm currently putting extra time into **Machine Learning** and **DSA**, while co
 
 ---
 
-### 📈 Contribution Graph
+### 🔥 GitHub Streak & Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/UdayanMahalwar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayanMahalwar&theme=github-compact&hide_border=true&area=true" alt="Udayan's contribution graph"/>
+  <img src="https://streak-stats.demolab.com?user=UdayanMahalwar&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E" alt="Udayan's GitHub streak"/>
 </a>
 
 </div>
+
+> 🟩 Your GitHub streak card is dynamic and updates from your GitHub contribution history.
+
+---
+
+## 🧑‍💻 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
+  <img src="https://leetcard.jacoblin.cool/Alpha_Beta_gamma_1234?theme=dark&extension=activity" alt="Udayan's LeetCode stats and activity"/>
+</a>
+
+</p>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
+  <img src="https://img.shields.io/badge/LeetCode-Alpha_Beta_gamma_1234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+</a>
+
+</div>
+
+The card links directly to my LeetCode profile and includes an activity visualization.
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+> For a true green GitHub contribution animation, use the `Platane/snk` GitHub Action to generate `github-snake.svg` in this profile repository.
+
+<details>
+<summary><b>How to enable the green contribution snake</b></summary>
+
+Create `.github/workflows/snake.yml` in your profile repository:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: UdayanMahalwar
+          outputs: |
+            dist/github-snake.svg?palette=github
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: EndBug/latest-tag@latest
+        with:
+          ref: main
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
+```
+
+Then add this to the README after the workflow has run once:
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github contribution snake" src="github-snake.svg" />
+</picture>
+```
+
+</details>
 
 ---
 
@@ -259,7 +340,7 @@ I'm currently putting extra time into **Machine Learning** and **DSA**, while co
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
   <img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 

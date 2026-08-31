@@ -259,23 +259,21 @@ I'm currently putting extra time into **Machine Learning** and **DSA**, while co
 
 ## 🧑‍💻 LeetCode
 
-<p align="center">
-
-<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
-  <img src="https://leetcard.jacoblin.cool/Alpha_Beta_gamma_1234?theme=dark&extension=activity" alt="Udayan's LeetCode stats and activity"/>
-</a>
-
-</p>
-
 <div align="center">
 
 <a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
-  <img src="https://img.shields.io/badge/LeetCode-Alpha_Beta_gamma_1234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Alpha_Beta_gamma_1234?theme=dark&show=recent" alt="Udayan's LeetCode recent activities"/>
 </a>
 
 </div>
 
-The card links directly to my LeetCode profile and includes an activity visualization.
+**Recent Activities** is shown here instead of the LeetCode yearly heatmap, so your profile highlights your latest solved/attempted problems, language, and submission status. The card uses the `show=recent` mode to display recent submissions in a dark theme.
+
+<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
+  🔗 **Open my LeetCode profile**
+</a>
+
+> 🧠 Current profile achievement: **1600+ rating • 400+ DSA problems solved**
 
 ---
 

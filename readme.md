@@ -4,6 +4,12 @@
 
 ### `CSE Student` • `Software Developer` • `ML Enthusiast`
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Engineer;ML+Enthusiast;DSA+%7C+Backend+%7C+Web+Development" alt="Typing intro"/>
+
+</div>
+
 <p>
   <a href="https://github.com/UdayanMahalwar">
     <img src="https://img.shields.io/badge/GitHub-UdayanMahalwar-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -24,11 +30,11 @@
 
 <br/>
 
-**🚀 Projects** → [Jhapto](#-jhapto--quick-commerce-platform) · [ByteShrink](#-byteshrink--huffman-compression-engine) · [Snake Game](#-terminal-based-snake-game) · [2ndBrain](#-2ndbrain--content-bookmarking-platform)
+**🚀 Projects** → [Featured Projects](#-featured-projects)
 
-**🛠️ Stack** → [Languages](#-languages) · [Frontend](#-frontend) · [Backend](#-backend) · [Databases](#-databases) · [ML](#-data-science--ml)
+**🛠️ Stack** → [Languages](#-languages) · [Frontend](#-frontend) · [Backend](#-backend) · [Databases](#-databases) · [Data Science & ML](#-data-science--ml)
 
-**📊 Stats** → [GitHub Analytics](#-github-analytics) · [🐍 Contribution Graph](#-github-contribution-graph)
+**📊 Stats** → [GitHub Analytics](#-github-analytics) · [Contribution Graph](#-github-contribution-graph)
 
 **🔗 Connect** → [LinkedIn](https://linkedin.com/in/udayan-mahalwar-046a69251/) · [Email](mailto:mahalwarudayan@gmail.com) · [GitHub](https://github.com/UdayanMahalwar)
 
@@ -40,21 +46,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Udayan Mahalwar**, a **B.Tech Computer Science undergraduate at Thapar Institute of Engineering and Technology (2024–2028)** with a current **CGPA of 8.53**.
+I'm **Udayan Mahalwar**, a B.Tech Computer Science undergraduate at **Thapar Institute of Engineering and Technology (2024–2028)** with a current **CGPA of 8.53**.
 
-I enjoy building systems that combine **backend engineering, databases, algorithms, and clean software architecture**. I'm currently focused on **Machine Learning** while sharpening my **Data Structures & Algorithms** skills.
+I enjoy building systems that combine **backend engineering, databases, algorithms, and clean software architecture**. I'm currently focused on **Machine Learning** and sharpening my **DSA skills** — I've solved **400+ problems** and hold a **1600+ LeetCode rating**.
 
-I’m currently focused on **Machine Learning** and improving my **Data Structures & Algorithms** skills. I’ve also solved **400+ DSA problems** and reached a **1600+ LeetCode rating**.
-
-My main interests:
-
-- 💻 Software Development & Full-Stack Engineering
-- ⚙️ Backend Engineering & REST APIs
-- 🧠 Machine Learning & Data Science
-- 🧩 Data Structures & Algorithms
-- 🌐 Web Development
-- 🏗️ Scalable Systems & Software Architecture
-- 🏆 Competitive Programming
+My main interests include **Software Development, Full-Stack Engineering, Backend Systems, Machine Learning, Web Development, and Competitive Programming**.
 
 ---
 
@@ -117,20 +113,20 @@ My main interests:
 
 **Stack:** `Node.js` `Express.js` `MySQL` `JWT` `REST APIs`
 
-Built a backend-heavy quick-commerce system with a normalized **10-table database**, **20+ REST APIs**, JWT authentication, transaction-safe order processing, and seller/fulfillment optimization.
+Backend-focused quick-commerce platform with a normalized **10-table relational database**, **20+ REST APIs**, JWT authentication, transaction-safe order processing, and seller/fulfillment optimization.
 
 <details>
 <summary><b>🔍 View details</b></summary>
 
 - 10-table normalized relational schema
 - 20+ REST APIs
-- JWT authentication & session security
-- Stored procedures, triggers & transactions
+- JWT authentication and secure sessions
+- Stored procedures, triggers, and transaction workflows
 - Seller-ranking and fulfillment optimization
 
 </details>
 
-[🔗 View Repository](https://github.com/UdayanMahalwar?tab=repositories)
+<a href="https://github.com/UdayanMahalwar?tab=repositories">🔗 Browse repositories</a>
 
 </td>
 
@@ -141,20 +137,20 @@ Built a backend-heavy quick-commerce system with a normalized **10-table databas
 
 **Stack:** `JavaScript` `Node.js` `DSA`
 
-A lossless compression/decompression engine built from scratch using **Huffman Coding, Min Heaps, Binary Trees**, custom metadata serialization, and bit-level file operations.
+A lossless compression and decompression engine built from scratch using **Huffman Coding, Min Heaps, Binary Trees**, custom metadata serialization, and bit-level file operations.
 
 <details>
 <summary><b>🔍 View details</b></summary>
 
-- Huffman tree & prefix-free code generation
+- Huffman tree and prefix-free code generation
 - Frequency analysis
 - Custom binary file format
-- Byte packing & padding management
+- Byte packing and padding management
 - Browser-based compression utility
 
 </details>
 
-[🔗 View Repository](https://github.com/UdayanMahalwar?tab=repositories)
+<a href="https://github.com/UdayanMahalwar?tab=repositories">🔗 Browse repositories</a>
 
 </td>
 </tr>
@@ -167,20 +163,20 @@ A lossless compression/decompression engine built from scratch using **Huffman C
 
 **Stack:** `C++17` `STL` `POSIX termios`
 
-A real-time terminal game using **OOP and modular architecture**, with non-blocking keyboard input, efficient snake tracking, collision detection, and smooth terminal rendering.
+Real-time terminal game using **OOP and modular architecture**, with non-blocking keyboard input, efficient snake tracking, collision detection, and smooth terminal rendering.
 
 <details>
 <summary><b>🔍 View details</b></summary>
 
-- C++17 / STL
+- C++17 and STL
 - POSIX `termios` input handling
-- WASD + Arrow Key controls
+- WASD and Arrow Key controls
 - `std::deque` snake tracking
-- Collision detection & game-state management
+- Collision detection and game-state management
 
 </details>
 
-[🔗 View Repository](https://github.com/UdayanMahalwar?tab=repositories)
+<a href="https://github.com/UdayanMahalwar?tab=repositories">🔗 Browse repositories</a>
 
 </td>
 
@@ -191,7 +187,7 @@ A real-time terminal game using **OOP and modular architecture**, with non-block
 
 **Stack:** `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT`
 
-A personal knowledge-management backend for saving, tagging, and organizing links, videos, and documents, with protected routes and shareable public brain links.
+Knowledge-management backend for saving, tagging, and organizing links, videos, and documents, with protected routes and shareable public brain links.
 
 <details>
 <summary><b>🔍 View details</b></summary>
@@ -204,13 +200,11 @@ A personal knowledge-management backend for saving, tagging, and organizing link
 
 </details>
 
-[🔗 View Repository](https://github.com/UdayanMahalwar?tab=repositories)
+<a href="https://github.com/UdayanMahalwar?tab=repositories">🔗 Browse repositories</a>
 
 </td>
 </tr>
 </table>
-
-> 💡 **4 projects • backend + systems + algorithms focused**
 
 ---
 
@@ -270,8 +264,6 @@ A personal knowledge-management backend for saving, tagging, and organizing link
 
 </details>
 
-Project details above are based on the projects listed in the resume.
-
 ---
 
 ## 📊 GitHub Analytics
@@ -293,16 +285,10 @@ Project details above are based on the projects listed in the resume.
 <div align="center">
 
 <a href="https://github.com/UdayanMahalwar">
-  <img src="https://streak-stats.demolab.com?user=UdayanMahalwar&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E" alt="Udayan's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=UdayanMahalwar&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E" alt="Udayan's GitHub streak"/>
 </a>
 
 </div>
-
-> 🟩 The streak card updates from my GitHub contribution history.
-
-> 📊 The stats and language cards use the GitHub Profile Summary Cards service rather than the paused public GitHub Readme Stats deployment.
-
----
 
 ---
 
@@ -317,12 +303,6 @@ Project details above are based on the projects listed in the resume.
 </picture>
 
 </div>
-
-> 🟩 This contribution animation is generated from my GitHub contribution calendar and published to the `output` branch by GitHub Actions.
-
----
-
----
 
 ---
 

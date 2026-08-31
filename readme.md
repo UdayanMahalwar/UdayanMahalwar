@@ -1,8 +1,8 @@
 <div align="center">
 
-Hi, I'm Udayan Mahalwar 👋
+# Hi, I'm Udayan Mahalwar 👋
 
-CSE Student • Software Developer • ML Enthusiast
+### `CSE Student` • `Software Developer` • `ML Enthusiast`
 
 <p>
   <a href="https://github.com/UdayanMahalwar">
@@ -17,66 +17,75 @@ CSE Student • Software Developer • ML Enthusiast
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=UdayanMahalwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<br/>
+
+<details>
+<summary><b>🧭 Explore my profile</b></summary>
+
+<br/>
+
+**🚀 Projects** → [Jhapto](#-jhapto--quick-commerce-platform) · [ByteShrink](#-byteshrink--huffman-compression-engine) · [Snake Game](#-terminal-based-snake-game) · [2ndBrain](#-2ndbrain--content-bookmarking-platform)
+
+**🛠️ Stack** → [Languages](#-languages) · [Frontend](#-frontend) · [Backend](#-backend) · [Databases](#-databases) · [ML](#-data-science--ml)
+
+**📊 Stats** → [GitHub Analytics](#-github-analytics) · [🔥 Streak](#-github-streak) · [📈 Contributions](#-contribution-graph)
+
+**🔗 Connect** → [LinkedIn](https://linkedin.com/in/udayan-mahalwar-046a69251/) · [Email](mailto:mahalwarudayan@gmail.com) · [GitHub](https://github.com/UdayanMahalwar)
+
+</details>
+
 
 </div>
 
-🧑‍💻 About Me
+---
 
-I'm Udayan Mahalwar, a B.Tech Computer Science undergraduate at Thapar Institute of Engineering and Technology (2024–2028) with a current CGPA of 8.53. fileciteturn0file0L4-L8
+## 🧑‍💻 About Me
 
-I enjoy building systems that combine backend engineering, databases, algorithms, and clean software architecture. I'm currently focused on Machine Learning while sharpening my Data Structures & Algorithms skills. fileciteturn0file0L49-L57
+I'm **Udayan Mahalwar**, a **B.Tech Computer Science undergraduate at Thapar Institute of Engineering and Technology (2024–2028)** with a current **CGPA of 8.53**.
+
+I enjoy building systems that combine **backend engineering, databases, algorithms, and clean software architecture**. I'm currently focused on **Machine Learning** while sharpening my **Data Structures & Algorithms** skills.
 
 My main interests:
 
-💻 Software Development & Full-Stack Engineering
+- 💻 Software Development & Full-Stack Engineering
+- ⚙️ Backend Engineering & REST APIs
+- 🧠 Machine Learning & Data Science
+- 🧩 Data Structures & Algorithms
+- 🌐 Web Development
+- 🏗️ Scalable Systems & Software Architecture
+- 🏆 Competitive Programming
 
-⚙️ Backend Engineering & REST APIs
+---
 
-🧠 Machine Learning & Data Science
-
-🧩 Data Structures & Algorithms
-
-🌐 Web Development
-
-🏗️ Scalable Systems & Software Architecture
-
-🏆 Competitive Programming
-
-⚡ Quick Stats
+## ⚡ Quick Stats
 
 <div align="center">
 
-🎓 Education
-
-🧠 LeetCode
-
-🧩 DSA
-
-B.Tech CSE @ TIET
-
-1600+ Rating
-
-400+ Problems
+| 🎓 Education | 🧠 LeetCode | 🧩 DSA |
+|:---:|:---:|:---:|
+| B.Tech CSE @ TIET | **1600+** Rating | **400+** Problems |
 
 </div>
 
-My resume reports a 1600+ LeetCode rating and 400+ DSA problems solved, covering areas such as graphs, trees, dynamic programming, greedy algorithms, binary search, STL, and hashing. fileciteturn0file0L49-L53
+My resume reports a **1600+ LeetCode rating** and **400+ DSA problems solved**, covering areas such as graphs, trees, dynamic programming, greedy algorithms, binary search, STL, and hashing.
 
-🛠️ Tech Stack
+---
 
-💻 Languages
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript,python" alt="Languages"/>
 </p>
 
-🎨 Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend"/>
 </p>
 
-⚙️ Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
@@ -84,14 +93,14 @@ My resume reports a 1600+ LeetCode rating and 400+ DSA problems solved, covering
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
-🗄️ Databases
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
 </p>
 
-📊 Data Science & ML
+### 📊 Data Science & ML
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
@@ -100,7 +109,7 @@ My resume reports a 1600+ LeetCode rating and 400+ DSA problems solved, covering
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 </p>
 
-🔧 Tools & Engineering
+### 🔧 Tools & Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Tools"/>
@@ -108,121 +117,143 @@ My resume reports a 1600+ LeetCode rating and 400+ DSA problems solved, covering
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
 </p>
 
-🚀 Featured Projects
+---
 
-🛒 Jhapto — Quick-Commerce Platform
+## 🚀 Featured Projects
 
-Tech: Node.js Express.js MySQL JWT REST APIs
+### 🛒 Jhapto — Quick-Commerce Platform
 
-<details>
-<summary><b>View project details</b></summary>
+**Tech:** `Node.js` `Express.js` `MySQL` `JWT` `REST APIs`
 
-Designed a 10-table normalized relational database supporting inventory, orders, users, and seller workflows.
-
-Developed 20+ REST APIs with JWT-based authentication and secure session management.
-
-Built stored procedures, triggers, and transaction workflows for atomic order processing and inventory consistency.
-
-Implemented seller-ranking and fulfillment optimization logic using cursor-based algorithms.
-
-</details>
-
-🗜️ ByteShrink — Huffman Compression Engine
-
-Tech: JavaScript Node.js DSA
+[🔗 View on GitHub](https://github.com/UdayanMahalwar?tab=repositories)
 
 <details>
 <summary><b>View project details</b></summary>
 
-Built a lossless file compression/decompression system from scratch using Huffman Coding, Min Heaps, and Binary Trees.
-
-Implemented frequency analysis, Huffman tree construction, prefix-free code generation, and custom metadata serialization.
-
-Designed a custom binary format with codebook storage, bit-count tracking, and deterministic decompression.
-
-Engineered bit-level byte packing, padding management, and binary stream reconstruction.
-
-Added a browser-based compression utility with client-side file processing and edge-case handling.
+- Designed a **10-table normalized relational database** supporting inventory, orders, users, and seller workflows.
+- Developed **20+ REST APIs** with JWT-based authentication and secure session management.
+- Built stored procedures, triggers, and transaction workflows for **atomic order processing** and inventory consistency.
+- Implemented seller-ranking and fulfillment optimization logic using cursor-based algorithms.
 
 </details>
 
-🐍 Terminal-Based Snake Game
+---
 
-Tech: C++17 STL POSIX termios
+### 🗜️ ByteShrink — Huffman Compression Engine
+
+**Tech:** `JavaScript` `Node.js` `DSA`
+
+[🔗 View on GitHub](https://github.com/UdayanMahalwar?tab=repositories)
 
 <details>
 <summary><b>View project details</b></summary>
 
-Developed a real-time terminal Snake game using OOP and modular class architecture.
-
-Implemented non-blocking keyboard input with POSIX termios.
-
-Added WASD and Arrow Key controls.
-
-Used std::deque for efficient snake body tracking.
-
-Implemented collision detection, food spawning, game-state management, and smooth terminal rendering.
+- Built a **lossless file compression/decompression system from scratch** using Huffman Coding, Min Heaps, and Binary Trees.
+- Implemented frequency analysis, Huffman tree construction, prefix-free code generation, and custom metadata serialization.
+- Designed a custom binary format with codebook storage, bit-count tracking, and deterministic decompression.
+- Engineered bit-level byte packing, padding management, and binary stream reconstruction.
+- Added a **browser-based compression utility** with client-side file processing and edge-case handling.
 
 </details>
 
-🧠 2ndBrain — Content Bookmarking Platform
+---
 
-Tech: TypeScript Node.js Express.js MongoDB JWT
+### 🐍 Terminal-Based Snake Game
+
+**Tech:** `C++17` `STL` `POSIX termios`
+
+[🔗 View on GitHub](https://github.com/UdayanMahalwar?tab=repositories)
 
 <details>
 <summary><b>View project details</b></summary>
 
-Built a TypeScript backend for a personal knowledge-management platform.
-
-Users can save, tag, and organize links, videos, and documents.
-
-Designed Mongoose schemas for Users, Content, Tags, and shareable Links.
-
-Implemented JWT authentication middleware for protected user-specific routes.
-
-Added public content-sharing through unique hash-based links.
-
-Structured the backend with strict typing and modular route handlers for maintainability.
+- Developed a real-time terminal Snake game using **OOP and modular class architecture**.
+- Implemented non-blocking keyboard input with POSIX `termios`.
+- Added WASD and Arrow Key controls.
+- Used `std::deque` for efficient snake body tracking.
+- Implemented collision detection, food spawning, game-state management, and smooth terminal rendering.
 
 </details>
 
-Project details above are based on the projects listed in the resume. fileciteturn0file0L18-L48
+---
 
-🧠 What I'm Learning Right Now
+### 🧠 2ndBrain — Content Bookmarking Platform
 
+**Tech:** `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT`
+
+[🔗 View on GitHub](https://github.com/UdayanMahalwar?tab=repositories)
+
+<details>
+<summary><b>View project details</b></summary>
+
+- Built a TypeScript backend for a personal knowledge-management platform.
+- Users can save, tag, and organize links, videos, and documents.
+- Designed Mongoose schemas for Users, Content, Tags, and shareable Links.
+- Implemented JWT authentication middleware for protected user-specific routes.
+- Added public content-sharing through unique hash-based links.
+- Structured the backend with strict typing and modular route handlers for maintainability.
+
+</details>
+
+Project details above are based on the projects listed in the resume.
+
+---
+
+## 🧠 What I'm Learning Right Now
+
+```text
 Machine Learning        ███████████████░░░░░
 Data Structures         ████████████████░░░░
 Backend Engineering     █████████████████░░░
 System Design           ████████████░░░░░░░░
 Competitive Programming ████████████████░░░░
+```
 
-I'm currently putting extra time into Machine Learning and DSA, while continuing to build backend-heavy and full-stack projects. fileciteturn0file0L54-L57
+I'm currently putting extra time into **Machine Learning** and **DSA**, while continuing to build backend-heavy and full-stack projects.
 
-📊 GitHub Analytics
+---
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=UdayanMahalwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Udayan's GitHub stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayanMahalwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=UdayanMahalwar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<a href="https://github.com/UdayanMahalwar">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=UdayanMahalwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Udayan's GitHub stats"/>
+</a>
+
+<a href="https://github.com/UdayanMahalwar">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayanMahalwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</a>
 
 </div>
 
-📈 Contribution Activity
+### 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayanMahalwar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+<a href="https://github.com/UdayanMahalwar">
+  <img src="https://streak-stats.demolab.com?user=UdayanMahalwar&theme=green-nur&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E" alt="Udayan's GitHub Streak"/>
+</a>
 
 </div>
 
-🏆 Coding Profiles
+> 🟩 My streak and contribution activity update automatically from my GitHub profile.
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/UdayanMahalwar">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayanMahalwar&theme=github-compact&hide_border=true&area=true" alt="Udayan's contribution graph"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Coding Profiles
 
 <div align="center">
 
@@ -236,43 +267,44 @@ I'm currently putting extra time into Machine Learning and DSA, while continuing
 
 </div>
 
-400+ DSA problems solved with a 1600+ LeetCode rating. fileciteturn0file0L49-L52
+> **400+ DSA problems solved** with a **1600+ LeetCode rating**.
 
-🎯 Current Goals
+---
 
-Get stronger at advanced DSA
+## 🎯 Current Goals
 
-Build production-quality full-stack applications
+- [ ] Get stronger at **advanced DSA**
+- [ ] Build production-quality **full-stack applications**
+- [ ] Go deeper into **Machine Learning**
+- [ ] Improve backend design and **scalable systems** skills
+- [ ] Contribute to **open source**
+- [ ] Build more projects that combine **algorithms + systems + ML**
 
-Go deeper into Machine Learning
+---
 
-Improve backend design and scalable systems skills
-
-Contribute to open source
-
-Build more projects that combine algorithms + systems + ML
-
-🧩 Core CS
+## 🧩 Core CS
 
 I am actively working with:
 
-Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks • System Design
+`Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` • `System Design`
 
-These are listed among my core CS areas in my resume. fileciteturn0file0L15-L17
+Core CS areas I work with include:
 
-🎓 Education
+---
 
-Thapar Institute of Engineering and Technology
+## 🎓 Education
 
-B.Tech — Computer Science
-2024 – 2028 • CGPA: 8.53 fileciteturn0file0L4-L6
+### Thapar Institute of Engineering and Technology
+**B.Tech — Computer Science**  
+`2024 – 2028` • **CGPA: 8.53**
 
-Army Public School, Dhaula Kuan
+### Army Public School, Dhaula Kuan
+**CBSE Class XII — 85.8%**  
+`2023`
 
-CBSE Class XII — 85.8%
-2023 fileciteturn0file0L7-L8
+---
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -290,9 +322,11 @@ CBSE Class XII — 85.8%
 
 </div>
 
+---
+
 <div align="center">
 
-💡 "Build. Break. Learn. Repeat."
+### 💡 "Build. Break. Learn. Repeat."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 

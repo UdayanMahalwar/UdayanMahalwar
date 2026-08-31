@@ -106,7 +106,7 @@ My main interests include **Software Development, Full-Stack Engineering, Backen
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🛒 Jhapto
 **Quick-Commerce Platform**
@@ -123,80 +123,6 @@ Backend-focused quick-commerce platform with a normalized **10-table relational 
 - JWT authentication and secure sessions
 - Stored procedures, triggers, and transaction workflows
 - Seller-ranking and fulfillment optimization
-
-</details>
-
-<a href="https://github.com/UdayanMahalwar?tab=repositories">🔗 Browse repositories</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗜️ ByteShrink
-**Huffman Compression Engine**
-
-**Stack:** `JavaScript` `Node.js` `DSA`
-
-A lossless compression and decompression engine built from scratch using **Huffman Coding, Min Heaps, Binary Trees**, custom metadata serialization, and bit-level file operations.
-
-<details>
-<summary><b>🔍 View details</b></summary>
-
-- Huffman tree and prefix-free code generation
-- Frequency analysis
-- Custom binary file format
-- Byte packing and padding management
-- Browser-based compression utility
-
-</details>
-
-<a href="https://github.com/UdayanMahalwar?tab=repositories">🔗 Browse repositories</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Terminal Snake
-**Terminal-Based Snake Game**
-
-**Stack:** `C++17` `STL` `POSIX termios`
-
-Real-time terminal game using **OOP and modular architecture**, with non-blocking keyboard input, efficient snake tracking, collision detection, and smooth terminal rendering.
-
-<details>
-<summary><b>🔍 View details</b></summary>
-
-- C++17 and STL
-- POSIX `termios` input handling
-- WASD and Arrow Key controls
-- `std::deque` snake tracking
-- Collision detection and game-state management
-
-</details>
-
-<a href="https://github.com/UdayanMahalwar?tab=repositories">🔗 Browse repositories</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 2ndBrain
-**Content Bookmarking Platform**
-
-**Stack:** `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT`
-
-Knowledge-management backend for saving, tagging, and organizing links, videos, and documents, with protected routes and shareable public brain links.
-
-<details>
-<summary><b>🔍 View details</b></summary>
-
-- Strict TypeScript typing
-- Mongoose schemas for core entities
-- JWT-protected content routes
-- Tagging and content organization
-- Hash-based public sharing links
 
 </details>
 

@@ -108,21 +108,109 @@ My main interests:
 
 ## 🚀 Featured Projects
 
-### 🛒 Jhapto — Quick-Commerce Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** `Node.js` `Express.js` `MySQL` `JWT` `REST APIs`
+### 🛒 Jhapto
+**Quick-Commerce Platform**
 
-[🔗 View on GitHub](https://github.com/UdayanMahalwar?tab=repositories)
+**Stack:** `Node.js` `Express.js` `MySQL` `JWT` `REST APIs`
+
+Built a backend-heavy quick-commerce system with a normalized **10-table database**, **20+ REST APIs**, JWT authentication, transaction-safe order processing, and seller/fulfillment optimization.
 
 <details>
-<summary><b>View project details</b></summary>
+<summary><b>🔍 View details</b></summary>
 
-- Designed a **10-table normalized relational database** supporting inventory, orders, users, and seller workflows.
-- Developed **20+ REST APIs** with JWT-based authentication and secure session management.
-- Built stored procedures, triggers, and transaction workflows for **atomic order processing** and inventory consistency.
-- Implemented seller-ranking and fulfillment optimization logic using cursor-based algorithms.
+- 10-table normalized relational schema
+- 20+ REST APIs
+- JWT authentication & session security
+- Stored procedures, triggers & transactions
+- Seller-ranking and fulfillment optimization
 
 </details>
+
+[🔗 View Repository](https://github.com/UdayanMahalwar?tab=repositories)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗜️ ByteShrink
+**Huffman Compression Engine**
+
+**Stack:** `JavaScript` `Node.js` `DSA`
+
+A lossless compression/decompression engine built from scratch using **Huffman Coding, Min Heaps, Binary Trees**, custom metadata serialization, and bit-level file operations.
+
+<details>
+<summary><b>🔍 View details</b></summary>
+
+- Huffman tree & prefix-free code generation
+- Frequency analysis
+- Custom binary file format
+- Byte packing & padding management
+- Browser-based compression utility
+
+</details>
+
+[🔗 View Repository](https://github.com/UdayanMahalwar?tab=repositories)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Terminal Snake
+**Terminal-Based Snake Game**
+
+**Stack:** `C++17` `STL` `POSIX termios`
+
+A real-time terminal game using **OOP and modular architecture**, with non-blocking keyboard input, efficient snake tracking, collision detection, and smooth terminal rendering.
+
+<details>
+<summary><b>🔍 View details</b></summary>
+
+- C++17 / STL
+- POSIX `termios` input handling
+- WASD + Arrow Key controls
+- `std::deque` snake tracking
+- Collision detection & game-state management
+
+</details>
+
+[🔗 View Repository](https://github.com/UdayanMahalwar?tab=repositories)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 2ndBrain
+**Content Bookmarking Platform**
+
+**Stack:** `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT`
+
+A personal knowledge-management backend for saving, tagging, and organizing links, videos, and documents, with protected routes and shareable public brain links.
+
+<details>
+<summary><b>🔍 View details</b></summary>
+
+- Strict TypeScript typing
+- Mongoose schemas for core entities
+- JWT-protected content routes
+- Tagging and content organization
+- Hash-based public sharing links
+
+</details>
+
+[🔗 View Repository](https://github.com/UdayanMahalwar?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+> 💡 **4 projects • backend + systems + algorithms focused**
 
 ---
 

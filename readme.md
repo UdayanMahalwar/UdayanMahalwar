@@ -48,39 +48,42 @@
 
 <div align="center">
 
-```bash
-$ whoami
-udayan_mahalwar
+<table>
+<tr>
+<td style="background-color:#000000; border:1px solid #30363d; border-radius:10px; padding:20px;">
 
-$ education
-B.Tech Computer Science @ Thapar Institute of Engineering and Technology
-2024 → 2028 | CGPA: 8.53
+<pre style="background-color:#000000; color:#ffffff; border:none;">
 
-$ currently
-Machine Learning
-DSA & Problem Solving
-Backend Engineering
-Software Architecture
+<span style="color:#ff5f56;">●</span> <span style="color:#ffbd2e;">●</span> <span style="color:#27c93f;">●</span>   <b>udayan@github ~ % whoami</b>
 
-$ experience
-400+ DSA problems solved
-1600+ LeetCode rating
+Udayan Mahalwar
+B.Tech CSE @ Thapar Institute of Engineering & Technology
+2024 → 2028  |  CGPA: 8.53
 
-$ interests
-Software Development
-Full-Stack Engineering
-Backend Systems
-Machine Learning
-Web Development
-Competitive Programming
+<b>udayan@github ~ % cat about.txt</b>
 
-$ motto
-"Build. Break. Learn. Repeat."
+→ Software Developer
+→ Full-Stack Engineer
+→ ML Enthusiast
+→ DSA & Competitive Programming
 
-$ status
-████████████████████████████████████████ 100%
-Ready to build 🚀
-```
+<b>udayan@github ~ % cat achievements.txt</b>
+
+→ 400+ DSA problems solved
+→ 1600+ LeetCode rating
+
+<b>udayan@github ~ % echo $INTERESTS</b>
+
+Software Development • Backend Systems • Machine Learning
+Full-Stack Development • Web Development • Competitive Programming
+
+<b>udayan@github ~ % _</b>
+
+</pre>
+
+</td>
+</tr>
+</table>
 
 </div>
 

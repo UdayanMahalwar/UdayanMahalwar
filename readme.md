@@ -112,8 +112,8 @@ My main interests include **Software Development, Full-Stack Engineering, Backen
 **Quick-Commerce Platform**
 
 **Stack:** `Node.js` `Express.js` `MySQL` `JWT` `REST APIs`
+
 [🔗 View on GitHub](https://github.com/UdayanMahalwar/Jhapto-)
-Backend-focused quick-commerce platform with a normalized **10-table relational database**, **20+ REST APIs**, JWT authentication, transaction-safe order processing, and seller/fulfillment optimization.
 
 <details>
 <summary><b>🔍 View details</b></summary>
@@ -130,7 +130,7 @@ Backend-focused quick-commerce platform with a normalized **10-table relational 
 
 ---
 
-### 🗜️ ByteShrink — Huffman Compression Engine
+### ByteShrink — Huffman Compression Engine
 
 **Tech:** `JavaScript` `Node.js` `DSA`
 

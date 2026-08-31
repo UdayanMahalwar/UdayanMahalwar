@@ -112,7 +112,7 @@ My main interests include **Software Development, Full-Stack Engineering, Backen
 **Quick-Commerce Platform**
 
 **Stack:** `Node.js` `Express.js` `MySQL` `JWT` `REST APIs`
-
+[🔗 View on GitHub](https://github.com/UdayanMahalwar/Jhapto-)
 Backend-focused quick-commerce platform with a normalized **10-table relational database**, **20+ REST APIs**, JWT authentication, transaction-safe order processing, and seller/fulfillment optimization.
 
 <details>
@@ -124,10 +124,6 @@ Backend-focused quick-commerce platform with a normalized **10-table relational 
 - Stored procedures, triggers, and transaction workflows
 - Seller-ranking and fulfillment optimization
 
-</details>
-
-<a href="https://github.com/UdayanMahalwar?tab=repositories">🔗 Browse repositories</a>
-
 </td>
 </tr>
 </table>
@@ -138,7 +134,7 @@ Backend-focused quick-commerce platform with a normalized **10-table relational 
 
 **Tech:** `JavaScript` `Node.js` `DSA`
 
-[🔗 View on GitHub](https://github.com/UdayanMahalwar?tab=repositories)
+[🔗 View on GitHub](https://github.com/UdayanMahalwar/ByteShrink)
 
 <details>
 <summary><b>View project details</b></summary>
@@ -157,7 +153,7 @@ Backend-focused quick-commerce platform with a normalized **10-table relational 
 
 **Tech:** `C++17` `STL` `POSIX termios`
 
-[🔗 View on GitHub](https://github.com/UdayanMahalwar?tab=repositories)
+[🔗 View on GitHub](https://github.com/UdayanMahalwar/Snake_Game)
 
 <details>
 <summary><b>View project details</b></summary>
@@ -176,7 +172,7 @@ Backend-focused quick-commerce platform with a normalized **10-table relational 
 
 **Tech:** `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT`
 
-[🔗 View on GitHub](https://github.com/UdayanMahalwar?tab=repositories)
+[🔗 View on GitHub](https://github.com/UdayanMahalwar/2ndBrain-cohort)
 
 <details>
 <summary><b>View project details</b></summary>

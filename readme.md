@@ -218,11 +218,11 @@ I'm currently putting extra time into **Machine Learning** and **DSA**, while co
 <div align="center">
 
 <a href="https://github.com/UdayanMahalwar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=UdayanMahalwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Udayan's GitHub stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UdayanMahalwar&theme=github_dark" alt="Udayan's GitHub stats"/>
 </a>
 
 <a href="https://github.com/UdayanMahalwar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayanMahalwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UdayanMahalwar&theme=github_dark" alt="Top languages"/>
 </a>
 
 </div>
@@ -232,12 +232,14 @@ I'm currently putting extra time into **Machine Learning** and **DSA**, while co
 <div align="center">
 
 <a href="https://github.com/UdayanMahalwar">
-  <img src="https://streak-stats.demolab.com?user=UdayanMahalwar&theme=green-nur&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E" alt="Udayan's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=UdayanMahalwar&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E" alt="Udayan's GitHub Streak"/>
 </a>
 
 </div>
 
-> 🟩 My streak and contribution activity update automatically from my GitHub profile.
+> 🟩 The streak card updates from my GitHub contribution history.
+
+> 📊 The stats and language cards use the GitHub Profile Summary Cards service rather than the paused public GitHub Readme Stats deployment.
 
 ---
 

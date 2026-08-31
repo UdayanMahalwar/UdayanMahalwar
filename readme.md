@@ -28,12 +28,11 @@
 
 **🛠️ Stack** → [Languages](#-languages) · [Frontend](#-frontend) · [Backend](#-backend) · [Databases](#-databases) · [ML](#-data-science--ml)
 
-**📊 Stats** → [GitHub Analytics](#-github-analytics) · [🔥 Streak](#-github-streak) · [🐍 Contribution Graph](#-github-contribution-graph)
+**📊 Stats** → [GitHub Analytics](#-github-analytics) · [🐍 Contribution Graph](#-github-contribution-graph)
 
 **🔗 Connect** → [LinkedIn](https://linkedin.com/in/udayan-mahalwar-046a69251/) · [Email](mailto:mahalwarudayan@gmail.com) · [GitHub](https://github.com/UdayanMahalwar)
 
 </details>
-
 
 </div>
 
@@ -45,6 +44,8 @@ I'm **Udayan Mahalwar**, a **B.Tech Computer Science undergraduate at Thapar Ins
 
 I enjoy building systems that combine **backend engineering, databases, algorithms, and clean software architecture**. I'm currently focused on **Machine Learning** while sharpening my **Data Structures & Algorithms** skills.
 
+I’m currently focused on **Machine Learning** and improving my **Data Structures & Algorithms** skills. I’ve also solved **400+ DSA problems** and reached a **1600+ LeetCode rating**.
+
 My main interests:
 
 - 💻 Software Development & Full-Stack Engineering
@@ -54,20 +55,6 @@ My main interests:
 - 🌐 Web Development
 - 🏗️ Scalable Systems & Software Architecture
 - 🏆 Competitive Programming
-
----
-
-## ⚡ Quick Stats
-
-<div align="center">
-
-| 🎓 Education | 🧠 LeetCode | 🧩 DSA |
-|:---:|:---:|:---:|
-| B.Tech CSE @ TIET | **1600+** Rating | **400+** Problems |
-
-</div>
-
-My resume reports a **1600+ LeetCode rating** and **400+ DSA problems solved**, covering areas such as graphs, trees, dynamic programming, greedy algorithms, binary search, STL, and hashing.
 
 ---
 
@@ -199,20 +186,6 @@ Project details above are based on the projects listed in the resume.
 
 ---
 
-## 🧠 What I'm Learning Right Now
-
-```text
-Machine Learning        ███████████████░░░░░
-Data Structures         ████████████████░░░░
-Backend Engineering     █████████████████░░░
-System Design           ████████████░░░░░░░░
-Competitive Programming ████████████████░░░░
-```
-
-I'm currently putting extra time into **Machine Learning** and **DSA**, while continuing to build backend-heavy and full-stack projects.
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -243,38 +216,6 @@ I'm currently putting extra time into **Machine Learning** and **DSA**, while co
 
 ---
 
-### 🔥 GitHub Streak & Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/UdayanMahalwar">
-  <img src="https://streak-stats.demolab.com?user=UdayanMahalwar&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E" alt="Udayan's GitHub streak"/>
-</a>
-
-</div>
-
-> 🟩 Your GitHub streak card is dynamic and updates from your GitHub contribution history.
-
----
-
-## 🧑‍💻 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Alpha_Beta_gamma_1234?theme=dark&show=recent&card_width=720" alt="Udayan's LeetCode recent activities"/>
-</a>
-
-</div>
-
-Live recent-submission activity from my LeetCode profile.
-
-<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
-  🔗 **Open my LeetCode profile**
-</a>
-
-> 🧠 Current profile achievement: **1600+ rating • 400+ DSA problems solved**
-
 ---
 
 ## 🐍 GitHub Contribution Graph
@@ -293,54 +234,7 @@ Live recent-submission activity from my LeetCode profile.
 
 ---
 
-## 🏆 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Alpha_Beta_gamma_1234/">
-  <img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://github.com/UdayanMahalwar">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-</div>
-
-> **400+ DSA problems solved** with a **1600+ LeetCode rating**.
-
 ---
-
-## 🎯 Current Goals
-
-- [ ] Get stronger at **advanced DSA**
-- [ ] Build production-quality **full-stack applications**
-- [ ] Go deeper into **Machine Learning**
-- [ ] Improve backend design and **scalable systems** skills
-- [ ] Contribute to **open source**
-- [ ] Build more projects that combine **algorithms + systems + ML**
-
----
-
-## 🧩 Core CS
-
-I am actively working with:
-
-`Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` • `System Design`
-
-Core CS areas I work with include:
-
----
-
-## 🎓 Education
-
-### Thapar Institute of Engineering and Technology
-**B.Tech — Computer Science**  
-`2024 – 2028` • **CGPA: 8.53**
-
-### Army Public School, Dhaula Kuan
-**CBSE Class XII — 85.8%**  
-`2023`
 
 ---
 
